@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+droidbot.egg-info/
+
+explore_result/*
+
+scripts/*
+!scripts/test.sh
+apps/*
+!.apps
