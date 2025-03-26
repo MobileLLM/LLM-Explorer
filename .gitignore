@@ -5,6 +5,7 @@ droidbot.egg-info/
 explore_result/*
 
 scripts/*
-!scripts/test.sh
 apps/*
 !.apps
+
+results_all/*

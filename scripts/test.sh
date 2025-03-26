@@ -1,1 +1,0 @@
-droidbot -a apps/calculator.apk -o ./explore_result/calculator -policy llm_guided -keep_app -keep_env
