@@ -1,0 +1,2 @@
+- The GMail app is not open-source, its app version name is as follows
+    - 2019.07.07.259347730.release
